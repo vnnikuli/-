@@ -1,0 +1,15 @@
+C:\Users\я\Desktop\IT\git\dotnet\finalTest\bin\Debug\net6.0\finalTest.exe
+C:\Users\я\Desktop\IT\git\dotnet\finalTest\bin\Debug\net6.0\finalTest.deps.json
+C:\Users\я\Desktop\IT\git\dotnet\finalTest\bin\Debug\net6.0\finalTest.runtimeconfig.json
+C:\Users\я\Desktop\IT\git\dotnet\finalTest\bin\Debug\net6.0\finalTest.dll
+C:\Users\я\Desktop\IT\git\dotnet\finalTest\bin\Debug\net6.0\finalTest.pdb
+C:\Users\я\Desktop\IT\git\dotnet\finalTest\obj\Debug\net6.0\finalTest.csproj.AssemblyReference.cache
+C:\Users\я\Desktop\IT\git\dotnet\finalTest\obj\Debug\net6.0\finalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\я\Desktop\IT\git\dotnet\finalTest\obj\Debug\net6.0\finalTest.AssemblyInfoInputs.cache
+C:\Users\я\Desktop\IT\git\dotnet\finalTest\obj\Debug\net6.0\finalTest.AssemblyInfo.cs
+C:\Users\я\Desktop\IT\git\dotnet\finalTest\obj\Debug\net6.0\finalTest.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\IT\git\dotnet\finalTest\obj\Debug\net6.0\finalTest.dll
+C:\Users\я\Desktop\IT\git\dotnet\finalTest\obj\Debug\net6.0\refint\finalTest.dll
+C:\Users\я\Desktop\IT\git\dotnet\finalTest\obj\Debug\net6.0\finalTest.pdb
+C:\Users\я\Desktop\IT\git\dotnet\finalTest\obj\Debug\net6.0\finalTest.genruntimeconfig.cache
+C:\Users\я\Desktop\IT\git\dotnet\finalTest\obj\Debug\net6.0\ref\finalTest.dll
